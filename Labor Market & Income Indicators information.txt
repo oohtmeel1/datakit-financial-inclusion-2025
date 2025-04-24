@@ -1,0 +1,38 @@
+Labor Market & Income Indicators (Proxies for Economic Development)
+https://microdatos.dane.gov.co/index.php/catalog/116#metadata-coverage
+
+archivo de datos: II Trim Área - Fuerza de Trabajo Dataset 1
+
+
+
+
+Unemployment Rate (%): Proportion of the labor force that is unemployed
+
+To get that do that dataset and then P12, look at the answers and tally them up
+https://microdatos.dane.gov.co/index.php/catalog/116/data-dictionary/F9?file_name=II%20Trim%20%C3%81rea%20-%20Fuerza%20de%20Trabajo
+
+Labor Force Participation Rate (%): Share of the working-age population that is either employed or actively looking for work.
+Same thing really
+https://microdatos.dane.gov.co/index.php/catalog/116/data-dictionary/F9?file_name=II%20Trim%20%C3%81rea%20-%20Fuerza%20de%20Trabajo
+
+
+Informal Employment (%): Share of workers employed without formal contracts or benefits.
+Monthly Household Income: Average monthly income per household
+
+Wage Inequality (Gini Index): Measure of income inequality in the country
+https://microdatos.dane.gov.co/index.php/catalog/684/data-dictionary
+https://microdatos.dane.gov.co/index.php/catalog/684/get-microdata
+Medición de Pobreza Monetaria y Desigualdad 2019
+
+Social Protection Coverage (%): Percentage of population covered by social protection systems (pensions, social assistance, etc.).
+https://microdatos.dane.gov.co/index.php/catalog/116/data-dictionary/F9?file_name=II%20Trim%20%C3%81rea%20-%20Fuerza%20de%20Trabajo\
+
+
+Additional
+
+Household Financial burden and Financial Education survey
+
+Encuesta de Carga Financiera y Educación Financiera de los Hogares - IEFIC-2017 -2018
+
+https://microdatos.dane.gov.co/index.php/catalog/626/data-dictionary
+
