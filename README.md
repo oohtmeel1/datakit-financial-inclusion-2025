@@ -1,5 +1,7 @@
 ### DataKit™ by DataKind
 
+Thank you for letting me participate in this project. It was fun.
+
 ## What's a DataKit?
 A DataKit™ is a work-ready set of data, software, and innovation questions, curated by DataKind, in a domain of social good. As you engage with a DataKit, you will apply your skills for social impact while deepening your understanding of problems common in the space. All learnings, ideas, and insights resulting from this DataKit will be aggregated and used by DataKind to expand our impact in the financial inclusion and economic opportunity sector. Specifically, we aim to leverage your insights and prototype solutions to expand on our product offerings, supporting stakeholders to expand their reach and impact. Learnings will be shared throughout the DataKit and beyond. 
 
@@ -35,6 +37,23 @@ We ask that you share your work regularly on [Slack](https://join.slack.com/t/da
 
 
 Please add your work to the appropriate sub-folder in this repository, and engage with the [discussions](https://github.com/datakind/datakit-financial-inclusion-2025/discussions).
+
+
+
+## My additions:
+I worked with the following datasets in Powerbi
+I looked at data from Colombia, which I obtained from public repositories.
+
+Labor Market & Income Indicators (Proxies for Economic Development)
+https://microdatos.dane.gov.co/index.php/catalog/116#metadata-coverage
+
+archivo de datos: II Trim Área - Fuerza de Trabajo Dataset 1
+
+## Analysis performed:
+
+Using the data dictionaries I was able to answer various questions.
+
+Unemployment Rate (%): Proportion of the labor force that is unemployed
 
 
 
